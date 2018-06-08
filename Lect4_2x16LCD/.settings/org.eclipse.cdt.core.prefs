@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/0.1723482048.1491411455/GCC4MBED_DEPLOY/delimiter=\:
+environment/project/0.1723482048.1491411455/GCC4MBED_DEPLOY/operation=replace
+environment/project/0.1723482048.1491411455/GCC4MBED_DEPLOY/value=cp PROJECT.bin /mnt/d; sync
+environment/project/0.1723482048.1491411455/append=true
+environment/project/0.1723482048.1491411455/appendContributed=true
+environment/project/0.1723482048/GCC4MBED_DEPLOY/delimiter=\:
+environment/project/0.1723482048/GCC4MBED_DEPLOY/operation=append
+environment/project/0.1723482048/GCC4MBED_DEPLOY/value=cp PROJECT.bin /media/$(USER)/MBED/; sync
+environment/project/0.1723482048/append=true
+environment/project/0.1723482048/appendContributed=true
